@@ -1,4 +1,4 @@
-<a href="https://nexo.io/"><img hight="180" width="180" alt="current" src="./assets/reob.jpg">
+<a href="https://www.reob.co.kr/"><img hight="256" width="256" alt="current" src="https://github.com/REOBTEAM/reob_erc20/blob/main/asset/reob.jpg?raw=true">
 
 # REOB Smart Contracts
 
