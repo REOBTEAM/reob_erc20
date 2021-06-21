@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+build/
+.env
+.secret
+deploy_mainnet.sh
+deploy_rinkeby.sh
+deploy_ropsten.sh
+PayProtocol.sol.Sample

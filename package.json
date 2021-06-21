@@ -1,0 +1,32 @@
+{
+  "name": "bitk_test",
+  "version": "1.0.0",
+  "description": "Just install once (no need if already installed) ``` npm install -g truffle npm install -g ganache-cli ```",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "compile": "truffle compile",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "2.2.0",
+    "truffle-hdwallet-provider": "1.0.6",
+    "web3": "^1.0.0-beta.52"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangga/ERC20_Token_Sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yangga/ERC20_Token_Sample/issues"
+  },
+  "homepage": "https://github.com/yangga/ERC20_Token_Sample#readme",
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.5.7"
+  }
+}
